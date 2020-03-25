@@ -1,0 +1,11 @@
+{
+  "name": "main_db",
+  "connector": "mongodb",
+  "url": "",
+  "host": "127.0.0.1",
+  "port": 27017,
+  "user": "shopNow_devel",
+  "password": "mongopass",
+  "database": "shopNow_devel",
+  "useNewUrlParser": true
+}
