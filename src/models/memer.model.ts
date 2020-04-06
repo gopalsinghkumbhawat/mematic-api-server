@@ -48,7 +48,7 @@ export class Memer extends Entity {
   })
   likes: string;
 
-  constructor(data?: Partial<User>) {
+  constructor(data?: Partial<Memer>) {
     super(data);
   }
 }
